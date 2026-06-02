@@ -1,1 +1,1 @@
-# odin-recipes
+This repository is for the Recipes project from the Odin Project. 
